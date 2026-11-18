@@ -1,0 +1,14 @@
+
+
+# Ignore video files
+*.mp4
+*.mp3
+*.jpg
+
+# Ignore test script
+run_tests.bat
+
+# ignore transcription folder
+transcriptions/
+demo/
+tests/
